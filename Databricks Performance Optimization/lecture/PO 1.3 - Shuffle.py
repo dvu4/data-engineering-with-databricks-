@@ -445,3 +445,6 @@ joined_df = spark.sql("""
 # MAGIC <br/><a href="https://databricks.com/privacy-policy">Privacy Policy</a> | 
 # MAGIC <a href="https://databricks.com/terms-of-use">Terms of Use</a> | 
 # MAGIC <a href="https://help.databricks.com/">Support</a>
+
+# COMMAND ----------
+
